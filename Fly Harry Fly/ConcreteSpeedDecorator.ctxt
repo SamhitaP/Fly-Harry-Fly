@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=decoratedSpeed
+comment0.target=ConcreteSpeedDecorator(Speed)
+comment1.params=
+comment1.target=void\ addBehaviour()
+comment2.params=decoratedSpeed
+comment2.target=void\ setSpeedBehaviour(Speed)
+numComments=3

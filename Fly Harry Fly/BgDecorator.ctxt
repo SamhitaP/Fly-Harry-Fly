@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=decoratedBg
+comment0.target=BgDecorator(Background)
+comment1.params=
+comment1.target=void\ addBgBehaviour()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

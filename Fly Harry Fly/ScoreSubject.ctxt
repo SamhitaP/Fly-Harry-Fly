@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getScore()
+comment1.params=score
+comment1.target=void\ setScore(int)
+comment2.params=observer
+comment2.target=void\ attach(ScoreObserver)
+comment3.params=
+comment3.target=void\ notifyAllObservers()
+numComments=4

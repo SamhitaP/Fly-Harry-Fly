@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Harry()
+comment1.params=img
+comment1.target=greenfoot.GreenfootImage\ flip(greenfoot.GreenfootImage)
+comment10.params=
+comment10.target=void\ checkCollision()
+comment2.params=newBirdState
+comment2.target=void\ setState(State)
+comment3.params=
+comment3.target=void\ setHarryImage()
+comment4.params=
+comment4.target=State\ getInitialState()
+comment5.params=
+comment5.target=State\ getChangedState()
+comment6.params=
+comment6.target=void\ act()
+comment7.params=
+comment7.target=void\ movement()
+comment8.params=
+comment8.target=void\ getGold()
+comment9.params=
+comment9.target=void\ getPotion()
+numComments=11
